@@ -3,7 +3,7 @@ import React from 'react'
 
 function index() {
   return (
-    <Pagina></Pagina>
+    <Pagina titulo="Feed de Notícias"></Pagina>
   )
 }
 
